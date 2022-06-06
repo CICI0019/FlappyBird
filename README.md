@@ -1,2 +1,2 @@
 # FlappyBird
-JAVA1
+JAVA 1 Final Project
